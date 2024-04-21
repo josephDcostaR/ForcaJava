@@ -1,3 +1,4 @@
+package Player;
 public class Player {
 
     private int life = 5; 

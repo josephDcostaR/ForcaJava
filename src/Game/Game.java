@@ -1,5 +1,9 @@
+package Game;
 import java.util.ArrayList;
 import java.util.Random;
+
+import Player.Player;
+import Words.Words;
 
 
 public class Game {
